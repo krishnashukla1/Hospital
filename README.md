@@ -1,8 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hospital Management System
 
-Currently, two official plugins are available:
+A full-featured MERN stack system to manage hospital data including patients, doctors, and appointments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Patient and doctor registration
+- Appointment scheduling
+- Admin dashboard
+- REST API with MongoDB
+
+## Installation
+
+1. Client: `cd client && npm install && npm start`
+2. Server: `cd server && npm install && npm start`
+
+## Tech Stack
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
